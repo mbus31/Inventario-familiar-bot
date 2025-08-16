@@ -209,3 +209,4 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 >>>>>>> fa958f18344d07ed4cee94e68a5745dd94c744e9
+.env
