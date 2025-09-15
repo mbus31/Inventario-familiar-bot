@@ -1,6 +1,6 @@
 Inventario Familiar Bot
 Un bot de Telegram para organizar el inventario de tu casa de forma colaborativa. Ideal para familias o compañeros de piso para saber lo que hay, lo que falta y lo que sobra.
-<img width="128" height="23" alt="image" src="https://github.com/user-attachments/assets/4762f363-048f-44a8-bd19-d7339efe44f5" />
+<img width="128" height="21" alt="image" src="https://github.com/user-attachments/assets/4762f363-048f-44a8-bd19-d7339efe44f5" />
 <img width="93" height="23" alt="image" src="https://github.com/user-attachments/assets/dd567a59-8cb9-4997-ac8b-7f044993de8b" />
 <img width="109" height="26" alt="image" src="https://github.com/user-attachments/assets/064685f4-1ba3-48e6-ba47-f14348ee31d2" />
 
