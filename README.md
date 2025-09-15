@@ -119,8 +119,8 @@ jobs:
         run: python -m pytest tests/ --cov=./ --cov-report=xml
 🚀 Demo y Casos de Uso
 📱 Flujo de Uso Típico
-Diagram
-Code
+<img width="871" height="532" alt="image" src="https://github.com/user-attachments/assets/70575dd2-2ab5-474f-a6f0-4db86403b46c" />
+
 🎥 Demo en Video
 (Incluir GIF mostrando el bot en funcionamiento)
 
