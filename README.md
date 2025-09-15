@@ -87,8 +87,3 @@ Inventario-familiar-bot/
 Este proyecto está bajo la licencia MIT. Podés hacer lo que quieras con el código, siempre y cuando respetes los términos de la licencia.
 
 Ver LICENSE para más detalles.
-
-
-Si querés aportar, denunciar un bug o sugerir mejoras, abrí un Issue o mandame un Pull Request.
-
-¡Gracias por usar Inventario Familiar Bot! Espero que te ayude a mantener todo ordenado. 😊
