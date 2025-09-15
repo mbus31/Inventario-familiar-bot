@@ -13,17 +13,17 @@ markdown
 
 Este bot te permite:
 
-- 📝 **Listar todos los objetos** que hay en tu hogar
+- 📝 **Listar todos los objetos** que hay en tu casa
 - ➕ **Agregar nuevos ítems** al inventario
 - ❌ **Eliminar o marcar** como usados los ítems que ya no están
 - 🔍 **Ver lo que "falta"** o lo que se va agotando
-- 👥 **Trabajar colaborativamente** como "lista de compras familiar"
+- 👥 **Trabajar colaborativamente** como "lista de compras familiar" o para un inventario de lo que sea necesario
 
 ---
 
 ## 🚀 Características
 
-- 🤖 Basado en **Telegram Bot API** con `python-telegram-bot`
+- 🤖 Hecho mediante **Telegram Bot API** con `python-telegram-bot`
 - 💾 Base de datos **SQLite** para persistencia local
 - 🎯 Interfaz intuitiva con comandos sencillos
 - 📦 Código abierto bajo licencia **MIT**
@@ -46,7 +46,7 @@ Este bot te permite:
 
 ## 📸 Capturas de pantalla
 
-*(Aquí puedes agregar capturas de pantalla del bot en funcionamiento)*
+*Crear gif de funcionamiento*
 
 ---
 
