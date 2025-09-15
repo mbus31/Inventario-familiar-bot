@@ -54,18 +54,20 @@ Instalar dependencias:
 
 
 pip install -r requirements.txt
+
 Configurar token de Telegram:
 
 Crear archivo .env:
 
 
 TELEGRAM_TOKEN=tu_token_aqui
+
 O exportar variable de entorno:
 
 
 export TELEGRAM_TOKEN="tu_token_aqui"
-Ejecutar el bot:
 
+Ejecutar el bot:
 
 python bot.py
 
