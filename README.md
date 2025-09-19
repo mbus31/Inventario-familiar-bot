@@ -149,19 +149,6 @@ Monitoring - Health checks y métricas
 
 Backups automáticos - De la base de datos SQLite
 
-🤝 Cómo Contribuir
-¡Las contribuciones son bienvenidas! Para contribuir:
-
-Haz fork del proyecto
-
-Crea una rama para tu feature (git checkout -b feature/AmazingFeature)
-
-Commit tus cambios (git commit -m 'Add AmazingFeature')
-
-Push a la rama (git push origin feature/AmazingFeature)
-
-Abre un Pull Request
-
 🎯 Areas que Necesitan Ayuda
 ✅ Tests automatizados
 
