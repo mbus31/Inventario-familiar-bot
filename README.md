@@ -171,15 +171,6 @@ Abre un Pull Request
 
 ✅ Nuevos comandos útiles
 
-🛡️ Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-📞 Soporte
-Si tienes problemas o preguntas:
-
-Revisa los issues existentes
-
-Abre un nuevo issue describiendo el problema
 
 Contacta por Telegram: @mbus31
 
